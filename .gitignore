@@ -1,0 +1,5 @@
+/dev
+/streamlit/frontend/*
+/streamlit/frontend/
+/fastapi/backend/*
+/fastapi/backend/
