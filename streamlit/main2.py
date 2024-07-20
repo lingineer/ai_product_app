@@ -7,8 +7,8 @@ from utils import preprocessing
 
 st.title("Churn Prediction")
 # # # Preparation
-endpoint = 'http://localhost:8000/predict'
-# endpoint = 'http://backend:8000/predict'
+# endpoint = 'http://localhost:8000/predict'
+endpoint = 'http://backend:8000/predict'
 # # # Input
 # # Simple layout
 # with st.container():
